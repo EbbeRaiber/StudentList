@@ -30,9 +30,7 @@ public class Student1 {
         return testTest;
     }
 
-    public void setTestTest(String testTest) {
-        this.testTest = testTest;
-    }
+  
     
 
     
